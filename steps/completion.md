@@ -10,8 +10,7 @@ You've completed this advanced tutorial on automating GitHub Projects! You now k
 - Create a project board with custom fields designed for automation
 - Set up item-based automations that trigger when issues or PRs change
 - Implement date-based automations to maintain timely progress
-- Connect GitHub Actions to your project board for advanced automation scenarios
-
+- 
 ### Next Steps
 
 Take what you've learned and apply it to your real projects! Here are some ideas:
